@@ -7,6 +7,8 @@
 Ik vind het erg leuk om te spelen, en ik doe het dan ook veel. In multiplayer servers zijn er veel dingen om te doen, zoals: PVP, TNT run en Skywars. 
 In singleplayer kan je ook veel doen. In survival werelden kan je zo lang mogelijk te proberen overleven. En in creative werelden kan je bouwen wat je wilt.
 
+![Minecraft Logo](Minecraft.jpg)
+
 ---
 
 Minecraft krijgt van mij een:
